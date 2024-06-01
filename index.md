@@ -1,10 +1,10 @@
-## Myanmar School App Privacy Policies
+## Myo! Privacy Policies
 
 ### Purpose
-The purpose of this app is to provide free and accessible education for all Burmese students, young and old. 
+Myo! lets you navigate social media by location, connecting you with real-time conversations and resources from your community and beyond without algorithmic filters.
 
 ### Method 
-The app provides education through audio-visual methods.  KG education uses pre-recorded videos whereas for G1 and above, it provides PDF + audio lessons
+The app provides location-based social media navigation, allowing users to explore posts, products, services, and job listings in their chosen regions, from broad areas like entire countries to specific townships.
 
 ### Scope of Data Collection
-This app does not collect any user data
+This app collects only the minimal necessary data to provide its services, such as location information for navigation purposes. No personal identifying information is collected or stored.
